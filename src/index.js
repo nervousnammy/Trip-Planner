@@ -1,1 +1,1 @@
-console.log("Inside the src/index.js file")
+console.log("Inside the src/index.js file");
